@@ -1,0 +1,40 @@
+.navbar-logo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  margin-bottom: -40px;
+}
+.navbar-bg {
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  padding: 10px;
+}
+.navbar-location {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  overflow-x: scroll;
+}
+
+.logo {
+  color: red;
+}
+.nav-tag {
+  margin-left: 25px;
+}
+.nav-tag:hover {
+  color: blue;
+  cursor: pointer;
+}
+
+.sign-but {
+  background-color: transparent;
+  border-radius: 5px;
+  border-width: 1px;
+  padding: 5px;
+}
+.sign-but:hover {
+  color: red;
+  cursor: pointer;
+}

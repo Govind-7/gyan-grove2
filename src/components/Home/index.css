@@ -1,0 +1,25 @@
+.home-bg {
+  background-image: url("https://res.cloudinary.com/dvzlfmmcb/image/upload/v1711848992/Banner_tfsrnw.svg");
+
+  height: 90vh;
+  color: white;
+  width: 100%;
+  padding: 10px;
+}
+.reshow-container {
+  display: flex;
+  overflow-x: scroll;
+  scrollbar-width: none;
+}
+.recomended-tag {
+  margin-top: 100px;
+}
+
+.event-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.events-tag {
+  color: black;
+}

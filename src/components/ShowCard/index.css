@@ -1,0 +1,31 @@
+.show-bg {
+  color: black;
+}
+
+.name-date {
+  display: flex;
+  justify-content: space-between;
+}
+
+.show-img {
+  width: 300px;
+  height: 400px;
+  margin-left: 20px;
+  border-radius: 20px;
+  border-image-slice: 60%;
+}
+
+.name-weather {
+  display: flex;
+  justify-content: space-between;
+}
+
+.img-text {
+  position: relative;
+  color: white;
+  font-size: 9px;
+  margin-left: 40px;
+  text-align: left;
+  margin-right: 40px;
+  bottom: 100px;
+}
